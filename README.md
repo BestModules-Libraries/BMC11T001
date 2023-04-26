@@ -1,13 +1,13 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BMD32K253_V1.0.png" width="480" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BMC11T001_V1.0.png" width="480" height="240"> 
 </div> 
 
-BM32O2531-A
+BMC11T001
 ===========================================================
 
-BM32O2531-A is an LCD display module launched by Flextron, using 9-bit single-wire bidirectional UART communication method.This document describes the Arduino Lib function and Arduino Lib installation method for the BM32O2531-A Line description; Examples demonstrate functions such as displaying output on an LCD display module.
+The Best Modules BMC11T001 is a shield board for the NFC card reader function, which uses the UART communication method. This document describes the Arduino Lib functions of the BMC11T001 and how to install the Arduino Lib. The provided examples demonstrate how to implement the UID read operation, data read/write operations and other functions. 
 
-This library can be installed via the Arduino Library manager. Search for **BM32O2531-A**. 
+This library can be installed via the Arduino Library manager. Search for **BMC11T001**. 
 
 Repository Contents
 -------------------
@@ -20,7 +20,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BM32O2531-A Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bm32o2531-a.html#tab-product2 )** - Arduino Library Description.
+* **[BMC11T001 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmc11t001.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
