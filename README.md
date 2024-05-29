@@ -20,7 +20,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BMC11T001 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmc11t001.html#tab-product2 )** - Arduino Library Description.
+* **[BMC11T001 Arduino Library Description]( https://www.bestmodulescorp.com/bmc11t001.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
